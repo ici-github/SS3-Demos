@@ -39,7 +39,7 @@
                 Variable assignment in can be assigned with an initial single-value.
                 Initial values - strings, numbers, arrays
                 
-                strings -> words or text, all strings must be enclosed with single quotes or double quotes
+                strings -> words or text or numbers, all strings must be enclosed with single quotes or double quotes
                             ' ' single quote
                             " " double quote
                 numbers -> integers or doubles 
